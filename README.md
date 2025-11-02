@@ -3,10 +3,24 @@
 Rexo
 ====
 
-Rexo is a neat single-file cross-platform unit testing framework for C/C++.
+Rexo is a neat single-file cross-platform unit testing framework for C/C++, by [Christopher Crouzet](https://github.com/christophercrouzet).
 
 It offers the same [xUnit][xunit]-like structure than most other unit testing
 frameworks but aims at providing a _truly_ polished API.
+
+
+## Installation
+
+
+Run:
+```bash
+$ npm i rexo.c
+```
+
+And then include `rexo.h` as follows:
+```c
+#include "node_modules/rexo.c/include/rexo.h"
+```
 
 
 ## Features
@@ -119,3 +133,10 @@ main(int argc, const char **argv)
 [badge-test]: https://github.com/christophercrouzet/rexo/workflows/Test/badge.svg
 [unlicense]: https://unlicense.org
 [xunit]: https://en.wikipedia.org/wiki/XUnit
+
+<br>
+<br>
+
+
+[![ORG](https://img.shields.io/badge/org-nodef-green?logo=Org)](https://nodef.github.io)
+![](https://ga-beacon.deno.dev/G-RC63DPBH3P:SH3Eq-NoQ9mwgYeHWxu7cw/github.com/nodef/rexo.c)

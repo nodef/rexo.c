@@ -1,0 +1,13 @@
+.github/
+cmake/
+doc/
+img/
+tests/
+tools/
+.clang-format
+.clang-tidy
+.gitattributes
+CHANGELOG.md
+CMakeLists.txt
+CODE-OF-CONDUCT.md
+Makefile
