@@ -1,6 +1,6 @@
 {
   "name": "rexo.c",
-  "version": "0.2.2",
+  "version": "0.2.5",
   "description": "Neat single-file cross-platform unit testing framework for C/C++; Christopher Crouzet (2018).",
   "keywords": [
     "c",
@@ -22,6 +22,6 @@
   "author": "wolfram77@gmail.com",
   "main": "rexo.h",
   "scripts": {
-    "test": "exit"
+    "test": "bash build.sh test"
   }
 }

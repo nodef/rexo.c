@@ -1,7 +1,3 @@
-# Library files
-rexo/
-rexo.h
-
 # Build artifacts
 .build/
 *.exe
