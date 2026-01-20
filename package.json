@@ -1,6 +1,6 @@
 {
   "name": "rexo.c",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "Neat single-file cross-platform unit testing framework for C/C++; Christopher Crouzet (2018).",
   "keywords": [
     "c",
